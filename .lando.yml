@@ -1,0 +1,4 @@
+name: nnanna-mvc
+recipe: lamp
+config:
+  webroot: public
